@@ -1,6 +1,6 @@
 :root {
-    --font-primary: JetBrainsMono NF, monospace !important;
-    --font-display: JetBrainsMono NF, monospace !important;
-    --font-headline: JetBrainsMono NF, monospace !important;
-    --font-code: JetBrainsMono NFM, monospace !important;
+    --font-display: JetBrainsMono NF !important;
+    --font-primary: JetBrainsMono NF !important;
+    --font-headline: JetBrainsMono NF !important;
+    --font-code: JetBrainsMono NFM !important;
 }
